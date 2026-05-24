@@ -9,7 +9,7 @@ st.write("Upload a photo, enter or record the symptoms, and the AI will suggest 
 
 # 2. Setup the API Key
 # IMPORTANT: Put your real API key back inside the quotes below!
-GOOGLE_API_KEY = "YOUR_API_KEY_HERE" 
+GOOGLE_API_KEY = "AIzaSyC9wExqJrEBBMuRZUDDTsGZOM3CRk97lIA" 
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Load the newest Gemini AI Brain
